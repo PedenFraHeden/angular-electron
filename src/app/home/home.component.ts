@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
-
+const ytdl = require('youtube-playlist-downloader');
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html',

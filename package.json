@@ -50,11 +50,13 @@
     "@angular/core": "14.2.6",
     "@angular/forms": "14.2.6",
     "@angular/language-service": "14.2.6",
+    "@angular/material": "7.0.0",
     "@angular/platform-browser": "14.2.6",
     "@angular/platform-browser-dynamic": "14.2.6",
     "@angular/router": "14.2.6",
     "rxjs": "7.5.7",
     "tslib": "^2.4.0",
+    "youtube-playlist-downloader": "^1.0.2",
     "zone.js": "~0.11.8"
   },
   "devDependencies": {
